@@ -1,0 +1,2 @@
+# IaEstrela
+trabalho de ia
